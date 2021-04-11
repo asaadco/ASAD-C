@@ -1,4 +1,4 @@
-# pytorch-gpu-data-science-project
+# ASAD-C(hallenge) Project
 
 Repository containing scaffolding for a Python 3-based data science project with GPU acceleration using the [PyTorch](https://pytorch.org/) ecosystem. 
 
