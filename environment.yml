@@ -13,7 +13,6 @@ dependencies:
   - holoviews
   - hvplot
   - captum
-  - cudatoolkit=10.2
   - ipywidgets
   - jupyterlab<3.0
   - jupyterlab-git
