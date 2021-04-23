@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+# asaad
+models/
+arabert/
 # Distribution / packaging
 .Python
 build/
